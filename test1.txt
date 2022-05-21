@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4EC0-95F1
+
+ Directory of C:\Users\Sanjeev\Desktop\SanProject
+
+21-05-2022  13:16    <DIR>          .
+21-05-2022  13:16    <DIR>          ..
+21-05-2022  13:16                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  258,995,892,224 bytes free
